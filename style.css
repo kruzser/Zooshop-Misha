@@ -1,0 +1,53 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    border: 5px white dotted;
+}
+
+header img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: black;
+}
+
+article img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+article{
+    width: 300px;
+}
+
+article{
+    text-align: center;
+}
+
+article a{
+    text-decoration: none;
+    color: white;
+}
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: white;
+}
